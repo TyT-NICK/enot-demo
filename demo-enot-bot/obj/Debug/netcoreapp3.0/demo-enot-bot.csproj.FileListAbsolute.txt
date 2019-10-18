@@ -1,0 +1,14 @@
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.exe
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.csprojAssemblyReference.cache
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.AssemblyInfoInputs.cache
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.AssemblyInfo.cs
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.deps.json
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.runtimeconfig.json
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.runtimeconfig.dev.json
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.dll
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\demo-enot-bot.pdb
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.csproj.CopyComplete
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.dll
+C:\Users\adm\Documents\repos\vs\demo-enot-bot\demo-enot-bot\obj\Debug\netcoreapp3.0\demo-enot-bot.pdb
